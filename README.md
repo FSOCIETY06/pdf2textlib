@@ -59,5 +59,5 @@ Currently tested only when using conda:
 ## Install
 
 ```
-pip install pdf2text
+pip install pdf2textlib
 ```
