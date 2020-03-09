@@ -2,6 +2,11 @@
 
 [![PyPI Status](https://img.shields.io/pypi/v/pdf2textlib.svg)](https://pypi.org/project/pdf2textlib/)
 [![Downloads](https://img.shields.io/pypi/dm/pdf2textlib.svg)](https://pypistats.org/packages/pdf2textlib)
+<img src="https://img.shields.io/github/license/FSOCIETY06/pdf2textlib">	
+<img src="https://img.shields.io/github/stars/FSOCIETY06/pdf2textlib">
+<img src="https://img.shields.io/github/forks/FSOCIETY06/pdf2textlib">
+<img src="https://img.shields.io/github/issues/FSOCIETY06/pdf2textlib">
+<img src="https://img.shields.io/badge/PRs-welcome-informational">
 
 
 Simple Multilingual PDF text extraction, Also extracts from images
